@@ -1,4 +1,4 @@
-# TMC2209 & Stepper Motor Driver Tester - bộ kiếm tra driver TMC2209 và motor bước
+# TMC2209 & Stepper Motor Driver Tester - bộ kiểm tra driver TMC2209 và motor bước
 
 Dự án này phát triển một thiết bị cầm tay chuyên dụng để kiểm tra động cơ bước (Stepper Motor) và cấu hình Driver TMC2209 mà không cần sử dụng máy tính. Thiết bị sử dụng vi điều khiển STM32F103C8T6 (BluePill), kết hợp kiến trúc điều khiển lai (Hybrid Control) giữa UART và GPIO để khai thác tối đa tính năng của Driver.
 
